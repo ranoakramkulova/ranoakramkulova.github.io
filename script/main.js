@@ -4,8 +4,8 @@ window.addEventListener("load", () => {
     text: 'Kimsiniz?',
     icon: 'question',
     showDenyButton: true,
-    confirmButtonText: 'Rana\'yım',
-    denyButtonText: 'Maalesef Rana Değilim',
+    confirmButtonText: 'Rana\'yım 👑',
+    denyButtonText: 'Maalesef Rana Değilim 😭',
     customClass: {
       popup: 'animated-popup',
     }
